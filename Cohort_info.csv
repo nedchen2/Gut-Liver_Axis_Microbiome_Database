@@ -1,0 +1,6 @@
+Cohort ID,Name Indicator,Study Name,latitude,longitude,geographic_location,collection_year,collection_source
+1,IC,Hoyles_2018_molecular,41.85846,12.6299,"Italy, Spain","2010, 2011, 2012",human fecal sample
+2,AmsterdamUniversity,Meijnikman_2022_microbiome,52.377956,4.89707,Netherlands,2016,human fecal sample
+3,PKU,Nie_2024_gut,39.59,116.18,China,2016,human fecal sample
+4,Shenzhen,Zhou_2022_relationship,22.54,114.08,China,"2017, 2018",human fecal sample
+5,UCSD,Loomba_2017_gut,32.87,-117.24,USA,"2012, 2013, 2014",human fecal sample

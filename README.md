@@ -1,5 +1,5 @@
 # Gut-Liver Axis Microbiome Database (GLiMD)
-The Gut-Liver Axis Microbiome Database (GLiMD) is a comprehensive, curated resource of shotgun metagenomic sequencing data from gut microbiota, systematically aggregated from publicly available studies on liver disease. 
+The Gut-Liver Axis Microbiome Database (GLiMD, pronounced ‘glimd’) is a comprehensive, curated resource of shotgun metagenomic sequencing data from gut microbiota, systematically aggregated from publicly available studies on liver disease. 
 
 - By integrating this data, the resource aims to facilitate the discovery of microbial biomarkers, functional pathways, and host-microbe interactions critical to liver health and disease.
 
